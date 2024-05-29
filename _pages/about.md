@@ -19,11 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**I am currently seeking Ph.D. positions. If you are interested in me, please feel free to contact me!**
 
 Hi 👋🙂
 
-I am Haotian Xie (谢皓天 in Chinese), an MSCS student at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/). My research interests span all aspects of Computer Systems with a current focus on Distributed Storage Systems and Interpretability in AI Software Engineering. I am dedicated to build engineering-heavy systems to generate real impact for a wide range of applications.
+I am Haotian Xie (谢皓天 in Chinese), a first-year Ph.D. student at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/). I am fortunate to work with [Prof. Zhao Zhang](https://zhaozhang.github.io/). My research interests span all aspects of distributed computing and high performance computing with a current focus on MLSys and AI interpretability by software engineering approch. I am dedicated to build engineering-heavy systems to generate real impact for a wide range of applications.
 
 Prior to Rutgers, I worked as an infrastructure engineer at autonomous driving startups [Pony.ai](https://pony.ai/?lang=en) (Jun 2021 - Nov 2022) and [Autra.tech](https://autra.tech/) (Jan 2023 - Dec 2023). My work includes building efficient and stable CI/CD workflows based on Kubernets and Argo, building and maintaining PB-level distributed storage systems, etc.
 
